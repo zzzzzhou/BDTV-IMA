@@ -1,1 +1,3 @@
-
+LI, DANNA:Extraction of raw data(covid state and population), upload population data to mongoDB
+NEO, EDWARD:Extraction of covid state data and county data, upload to mongo database
+Fang, Han: retrieve covid-state
